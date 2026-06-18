@@ -43,6 +43,8 @@ https://boluo66.top/favimg/?url=xxx
 
 ## 更多工具
 
+→ [VeteranBoLuo/tools](https://github.com/VeteranBoLuo/tools)
+
 | 工具 | 说明 |
 |---|---|
 | [favimg](https://github.com/VeteranBoLuo/favimg) | 网站图标获取 |
