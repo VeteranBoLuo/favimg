@@ -45,11 +45,6 @@ https://boluo66.top/favimg/?url=xxx
 
 → [VeteranBoLuo/tools](https://github.com/VeteranBoLuo/tools)
 
-| 工具 | 说明 |
-|---|---|
-| [favimg](https://github.com/VeteranBoLuo/favimg) | 网站图标获取 |
-| git-heat | Git 年度热力图 · 即将推出 |
-
 ---
 
 **favimg** — 一行 URL，一张图标。
