@@ -1,30 +1,28 @@
 # favimg
 
-一键获取任意网站的高清 favicon 图标。
+一行 URL，一张图标。
 
 ```
-https://boluo66.top/favimg/?url=github.com
+https://xxx/favimg/?url=github.com
 ```
-
-![favimg](https://boluo66.top/favimg/?url=boluo66.top)
 
 ## 使用方式
 
 ### HTML
 
 ```html
-<img src="https://boluo66.top/favimg/?url=github.com" alt="GitHub" />
+<img src="https://xxx/favimg/?url=github.com" alt="GitHub" />
 ```
 
 ### Markdown
 
 ```markdown
-![GitHub](https://boluo66.top/favimg/?url=github.com)
+![GitHub](https://xxx/favimg/?url=github.com)
 ```
 
 ### 浏览器
 
-直接打开 `https://boluo66.top/favimg/?url=任意网站`，返回该网站的 favicon 图片。
+直接打开 `https://xxx/favimg/?url=任意网站`，返回该网站的 favicon 图片。
 
 ## 支持格式
 
@@ -49,7 +47,6 @@ https://boluo66.top/favimg/?url=github.com
 |---|---|
 | [favimg](https://github.com/VeteranBoLuo/favimg) | 网站图标获取 |
 | git-heat | Git 年度热力图 · 即将推出 |
-| qr | 终端二维码 · 即将推出 |
 
 ---
 
