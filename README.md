@@ -3,7 +3,7 @@
 一行 URL，一张图标。
 
 ```
-https://xxx/favimg/?url=xxx
+https://boluo66.top/favimg/?url=xxx
 ```
 
 ## 使用方式
@@ -11,18 +11,18 @@ https://xxx/favimg/?url=xxx
 ### HTML
 
 ```html
-<img src="https://xxx/favimg/?url=xxx" alt="icon" />
+<img src="https://boluo66.top/favimg/?url=xxx" alt="icon" />
 ```
 
 ### Markdown
 
 ```markdown
-![icon](https://xxx/favimg/?url=xxx)
+![icon](https://boluo66.top/favimg/?url=xxx)
 ```
 
 ### 浏览器
 
-直接打开 `https://xxx/favimg/?url=xxx`，返回该网站的 favicon 图片。
+直接打开 `https://boluo66.top/favimg/?url=xxx`，返回该网站的 favicon 图片。
 
 ## 支持格式
 
